@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a class project for CMU Internet of Things class. Classroom Emotion gathers students facial data during online classes and report class engagement, student emotional score and other related metrics to the instructor. This repository is the server that handles student-teacher clients communication, sending and gathering emotional analysis results, and persisting data.
+Classroom Emotion gathers students facial data during online classes and report class engagement, student emotional score and other related metrics to the instructor. This repository is the server that handles student-teacher clients communication, sending and gathering emotional analysis results, and persisting data.
 
 ## Installation
 
