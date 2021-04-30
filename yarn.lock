@@ -4778,6 +4778,16 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
+nestjs-crud-mongoose@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/nestjs-crud-mongoose/-/nestjs-crud-mongoose-1.1.1.tgz#82d44e90740142e84cb8b3c484a85c8752856988"
+  integrity sha512-tAHxohjcso28JuSQz5QDiqXV2JoJGcN/MsQeoGFT01hFJz9Zh4alJVGBEU2HznOXSR78JAHUMXhU+RBLORqFGw==
+
+nestjs-mongoose-crud@^2.0.0:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/nestjs-mongoose-crud/-/nestjs-mongoose-crud-2.1.2.tgz#d6d084cfcbdc555a7cf424ba253e9c481be76335"
+  integrity sha512-rvMjjClLTbWA21uNLimYm1rcDeadJCCXBEcDM8T4C2RVnWBgHZtDIhKIrzNN0KF9Q0w09rha+mHftmDCp1qPBQ==
+
 next-tick@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.1.0.tgz#1836ee30ad56d67ef281b22bd199f709449b35eb"
@@ -6162,9 +6172,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
