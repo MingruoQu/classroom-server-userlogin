@@ -2024,9 +2024,9 @@ cookie@0.4.0:
   integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
 
 cookiejar@^2.1.0:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-concurrently@^1.0.0:
   version "1.0.5"
@@ -4777,6 +4777,16 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
+
+nestjs-crud-mongoose@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/nestjs-crud-mongoose/-/nestjs-crud-mongoose-1.1.1.tgz#82d44e90740142e84cb8b3c484a85c8752856988"
+  integrity sha512-tAHxohjcso28JuSQz5QDiqXV2JoJGcN/MsQeoGFT01hFJz9Zh4alJVGBEU2HznOXSR78JAHUMXhU+RBLORqFGw==
+
+nestjs-mongoose-crud@^2.0.0:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/nestjs-mongoose-crud/-/nestjs-mongoose-crud-2.1.2.tgz#d6d084cfcbdc555a7cf424ba253e9c481be76335"
+  integrity sha512-rvMjjClLTbWA21uNLimYm1rcDeadJCCXBEcDM8T4C2RVnWBgHZtDIhKIrzNN0KF9Q0w09rha+mHftmDCp1qPBQ==
 
 next-tick@1:
   version "1.1.0"
